@@ -1,5 +1,7 @@
 # Repository to reproduce webpack watch bug
 
+This is intended to reproduce the issue in [https://github.com/webpack/webpack/issues/8734](https://github.com/webpack/webpack/issues/8734).
+
 1. Run `npm i`
 2. Run `npm run dev` which will start `webpack --watch`
 
